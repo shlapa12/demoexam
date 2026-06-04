@@ -22,8 +22,8 @@ $is_admin = isset($_SESSION['admin']) && $_SESSION['admin'];
     :root {
       --blue-dark: #f3c38cee;
       --blue-medium: #f3c38cee;
-      --blue-light: #8db8fdff;
-      --silver: #ffffffff;
+      --blue-light: #4a7bcb;
+      --silver: #494949ff;
       --silver-light: #e0e0e0;
       --white: #ffffff;
     }
@@ -231,19 +231,19 @@ $is_admin = isset($_SESSION['admin']) && $_SESSION['admin'];
 <div class="slideshow-container">
   <!-- Слайды -->
   <div class="mySlides fade">
-    <img src="https://tatarstan.ru/file/news/1302_n2026082_big.jpg" alt="Слайд 1">
+    <img src="kvalif.jpg" alt="Слайд 1">
     <div class="text">Курсы повышения квалификации</div>
   </div>
 
   <div class="mySlides fade">
-    <img src="https://www.kti.ru/img/news/1211/big_5b6c68b6d188413ca564f811f95bf318507fc1e023536ee8255432598f452.png" alt="Слайд 2">
+    <img src="people.jpg" alt="Слайд 2">
     <div class="text">Курсы переподготовки</div>
   </div>
 
   
 
   <div class="mySlides fade">
-    <img src="https://apksmgu.ru/upload/iblock/952/hyg0t4pfzc2mlb3jw4nto6j6p36eovsd.jpeg" alt="Слайд 4">
+    <img src="slide.jpg" alt="Слайд 4">
     <div class="text">Курсы по охране труда</div>
   </div>
 
